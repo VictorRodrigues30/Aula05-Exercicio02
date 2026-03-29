@@ -1,3 +1,6 @@
+// Nome: Victor Guimarães Rodrigues
+// RA: 1261946761
+
 import java.util.Scanner;
 public class Exercicio02 {
     public static void main(String[] args) throws Exception {
